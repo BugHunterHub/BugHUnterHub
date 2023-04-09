@@ -1,1 +1,1 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您周末愉快!&center=true&size=27"> </a> </h1>
+    <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到我的GitHub主页,祝您愉快!&center=true&size=27"> </a> </h1>
